@@ -40,6 +40,7 @@ public class Homework4Confidential {
     public static String[] words(String text) {
         return text.split(" +");
         // some change
+        // another change
     }
 
     public static String confidential(String text, String[] sensitiveWords) {
