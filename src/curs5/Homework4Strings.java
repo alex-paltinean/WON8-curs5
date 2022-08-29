@@ -6,7 +6,7 @@ import java.util.Random;
 public class Homework4Strings {
 
     public static void main(String[] args) {
-        // some comment
+        // some comment adada
         // another comment
         String[] names = {"Andrei", "Alexandru", "Mircea", "Oana", "Maria", "", "Em", null, "Razvan"};
         System.out.println("Exercise 1");
@@ -20,7 +20,7 @@ public class Homework4Strings {
         System.out.println("Exercise 5:");
         printRandomLetter(names);
         System.out.println("Exercise 6:");
-        // some later comment
+        // some later
         System.out.println(abbreviateMiddleNameIfPresent("Maria Clara Popescu"));
         System.out.println(abbreviateMiddleNameIfPresent("Maria Popescu"));
         System.out.println(abbreviateMiddleNameIfPresent("Maria  Popescu"));
