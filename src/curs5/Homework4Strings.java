@@ -7,6 +7,7 @@ public class Homework4Strings {
 
     public static void main(String[] args) {
         // some comment
+        // another comment
         String[] names = {"Andrei", "Alexandru", "Mircea", "Oana", "Maria", "", "Em", null, "Razvan"};
         System.out.println("Exercise 1");
         printAllStartingWithA(names);
