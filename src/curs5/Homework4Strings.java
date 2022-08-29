@@ -6,6 +6,7 @@ import java.util.Random;
 public class Homework4Strings {
 
     public static void main(String[] args) {
+        // adding payments
         // some comment adada
         // another comment
         String[] names = {"Andrei", "Alexandru", "Mircea", "Oana", "Maria", "", "Em", null, "Razvan"};
