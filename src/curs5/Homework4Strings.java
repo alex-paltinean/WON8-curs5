@@ -6,7 +6,8 @@ import java.util.Random;
 public class Homework4Strings {
 
     public static void main(String[] args) {
-        String[] names = {"Andrei", "Alex", "Mircea", "Oana", "Maria", "", "Em", null, "Razvan"};
+        // some comment
+        String[] names = {"Andrei", "Alexandru", "Mircea", "Oana", "Maria", "", "Em", null, "Razvan"};
         System.out.println("Exercise 1");
         printAllStartingWithA(names);
         System.out.println("Exercise 2");
