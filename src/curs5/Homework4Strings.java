@@ -20,7 +20,7 @@ public class Homework4Strings {
         System.out.println("Exercise 5:");
         printRandomLetter(names);
         System.out.println("Exercise 6:");
-        // some later comment
+        // some later comment about cars
         System.out.println(abbreviateMiddleNameIfPresent("Maria Clara Popescu"));
         System.out.println(abbreviateMiddleNameIfPresent("Maria Popescu"));
         System.out.println(abbreviateMiddleNameIfPresent("Maria  Popescu"));
